@@ -24,7 +24,8 @@ int main()
         break;
     }}
     if(a[i]!=key)
-    {
+    {  
+        //k
         cout<<"element not present in the array ";
     }
     return 0;
